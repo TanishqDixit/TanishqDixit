@@ -18,7 +18,7 @@
 <a href="https://twitter.com/tanishq__dixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanishq__dixit" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tanishq-dixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tanishq-dixit" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100009791102023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009791102023" height="30" width="40" /></a>
-<a href="https://instagram.com/tanishq__dixit10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanishq__dixit10" height="30" width="40" /></a>
+<a href="https://instagram.com/tanishq__dixit10" target="blank"><img align="center" src="https://en.wikipedia.org/wiki/Instagram#/media/File:Instagram_logo_2016.svg" alt="tanishq__dixit10" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/tanishq dixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tanishq dixit" height="30" width="40" /></a>
 </p>
 
